@@ -8,10 +8,8 @@
 
 ## My GitHub Stats
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=bholeneha&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/5679285"></a> -->
+<img src="https://github-readme-stats.vercel.app/api?username=bholeneha&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/5679285"></a>
 ![Neha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bholeneha&show_icons=true&theme=great-gatsby)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bholeneha)](https://github.com/anuraghazra/github-readme-stats) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bholeneha&hide=jupyter)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
