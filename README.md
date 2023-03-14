@@ -5,7 +5,8 @@
 - 👯 I’m looking to collaborate on ... Any full stack projects
 - 📫 How to reach me: ... Email: connect@nehabhole.com
 - ⚡ Fun fact: ... I went on a 2 week solo roadtrip in US in 2019 - exploring Arizona, New Mexico and Utah. I am obessed with the state of Utah and have been there 4 times. :) 
-- 
+
+
 ## Things I code with
 
 #### Languages 
