@@ -1,4 +1,6 @@
-### Hi there 👋, I am Neha. A Full Stack Developer based in Toronto, Canada. 
+# Hi there 👋, I am Neha. A Full Stack Developer based in Toronto, Canada. 
+
+
 
 - 🔭 I’m currently working on ... ELC Hackathon Project
 - 🌱 I’m currently learning ... JavaScript Data Structures and Algorithms on Udemy
@@ -13,4 +15,4 @@
 
 
 
-Last Edited: March 12, 2023
+Last Edited: March 14, 2023
