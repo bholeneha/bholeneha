@@ -9,6 +9,7 @@
 ## My GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=bholeneha&show_icons=true&theme=radical&include_all_commits=true">|<a href="https://stackoverflow.com/users/story/5679285"></a>
+![Neha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bholeneha&show_icons=true&theme=great-gatsby)
 
 
 Last Edited: March 12, 2023
