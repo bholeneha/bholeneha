@@ -1,6 +1,6 @@
 # Hi there 👋, I am Neha. A Full Stack Developer based in Toronto, Canada. 
 
-- 🔭 I’m currently working on ... ELC Hackathon Project
+- 🔭 I’m currently working on ... polishing up my old projects, building a habit tracking app with a team, brainstorming future projects. 
 - 🌱 I’m currently learning ... JavaScript Data Structures and Algorithms on ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 - 👯 I’m looking to collaborate on ... Any full stack projects
 - 📫 How to reach me: ... Email: connect@nehabhole.com
