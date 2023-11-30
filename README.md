@@ -1,7 +1,7 @@
 # Hi there 👋, I am Neha. A Full Stack Developer based in Toronto, Canada. 
 
-- 🔭 I’m currently working on ... polishing up my old projects, building a habit tracking app with a team, brainstorming future projects. 
-- 🌱 I’m currently learning ... JavaScript Data Structures and Algorithms on ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
+- 🔭 I’m currently working on ... two side projects - social calender app and a itinerary builder app. 
+- 🌱 I’m currently learning ... Ruby on Rails on ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 - 👯 I’m looking to collaborate on ... Any full stack projects
 - 📫 How to reach me: ... Email: connect@nehabhole.com
 - ⚡ Fun fact: ... I went on a 2 week solo roadtrip in US in 2019 - exploring Arizona, New Mexico and Utah. I am obessed with the state of Utah and have been there 4 times. :) 
