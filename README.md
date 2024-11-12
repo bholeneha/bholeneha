@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ... Ruby on Rails on ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 - 👯 Currently not looking to collaborate. Got plenty on my plate haha
 - 📫 How to reach me: ... Email: connect@nehabhole.com
-- ⚡ Fun fact: ... I went on a 2 week solo roadtrip in US in 2019 - exploring Arizona, New Mexico and Utah. I am obessed with the state of Utah and have been there 4 times. :) 
+- ⚡ Fun fact: Currently converting a van into a tiny home! :) 
 
 
 ## Things I code with
