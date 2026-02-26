@@ -27,10 +27,4 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-## My GitHub Stats
-![Neha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bholeneha&show_icons=true&theme=great-gatsby)
-
-
-
-
 Last Edited: March 14, 2023
