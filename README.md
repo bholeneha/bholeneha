@@ -1,8 +1,8 @@
 # Hi there 👋, I am Neha. A Full Stack Developer based in Toronto, Canada. 
 
-- 🔭 I’m currently working on ... two side projects - social calender app and a itinerary builder app. 
+- 🔭 I’m currently working on ... two side projects - an itinerary builder app and a personal budgetting app. 
 - 🌱 I’m currently learning ... Ruby on Rails on ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-- 👯 Currently not looking to collaborate. Got plenty on my plate haha
+- 👯 Currently not looking to collaborate. Got plenty on my plate!
 - 📫 How to reach me: ... Email: connect@nehabhole.com
 - ⚡ Fun fact: Currently converting a van into a tiny home! :) 
 
